@@ -1,2 +1,2 @@
 # P_267_Customer_Personality_Analysis_Clusterting
-# In this project, clustering of customers based on products, income, age, etc., was performed using clustering algorithms like K_Means, DBSCAN, etc. Subsequently, segmentation analysis was conducted using classification algorithms like XGBOOST, Random Forest, etc., allowing a new customer to be segmented to the clusters with individual characteristics.
+In this project, clustering of customers based on products, income, age, etc., was performed using clustering algorithms like K_Means, DBSCAN, etc. Subsequently, segmentation analysis was conducted using classification algorithms like XGBOOST, Random Forest, etc., allowing a new customer to be segmented to the clusters with individual characteristics.
